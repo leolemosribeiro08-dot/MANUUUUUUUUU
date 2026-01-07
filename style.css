@@ -1,3 +1,6 @@
-body{
+body {
     background-image: url("m.png");
+    background-repeat: no-repeat;
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-attachment: fixed; /* Mantém o fundo parado ao rolar a página */
 }
